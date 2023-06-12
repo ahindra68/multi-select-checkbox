@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multi-select-checkbox/static/css/main.e6c13ad2.css",
+    "main.js": "/multi-select-checkbox/static/js/main.e5990784.js",
+    "static/js/787.2746eaee.chunk.js": "/multi-select-checkbox/static/js/787.2746eaee.chunk.js",
+    "index.html": "/multi-select-checkbox/index.html",
+    "main.e6c13ad2.css.map": "/multi-select-checkbox/static/css/main.e6c13ad2.css.map",
+    "main.e5990784.js.map": "/multi-select-checkbox/static/js/main.e5990784.js.map",
+    "787.2746eaee.chunk.js.map": "/multi-select-checkbox/static/js/787.2746eaee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5990784.js"
+  ]
+}
